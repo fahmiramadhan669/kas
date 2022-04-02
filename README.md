@@ -12,6 +12,4 @@ mysqli (php v.7)
 1. upload aplikasi kas kita ke dalam web sever mu
 2. ganti konfigurasi koneksi.php sesuai dengan password, username, dan nama database mu
 
-## kredit
-*developer: fajar rivaldi chan* | 
-*powered by: chan official*
+
